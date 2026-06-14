@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Script creating the a files PID
 
 PID_FILE="/var/run/myscript.pid"
 
